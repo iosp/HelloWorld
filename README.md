@@ -3,8 +3,7 @@ HelloWorld
 
 Task<br>
 All team members have to collaborate to write a HelloWorld.c program.
-Each developer has to write only one line with his name and a serial number.<br>
-'''This line:     printf("<ploni's number>.  Hello <Ploni>");'''
+Each developer has to write only one line that prints his name and a serial number.
 At the end, the output of the program has to be like this:
 <br>1. Hello Dan!
 <br>2. Hello Miron!
