@@ -30,5 +30,5 @@ Good luck!
 
 Github Workflow Explained
 ==========================
-![MySandBox ](https://raw.github.com/powerboots/MySandBox/master/workflow.PNG)
-![HelloWorld](https://raw.github.com/ISS-CORP/HelloWorld/master/workflow.PNG)
+
+![HelloCloud](https://raw.github.com/forange/HelloCloud/master/workflow.PNG)
