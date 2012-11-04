@@ -7,7 +7,7 @@ change2 is here ================================================================
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
-
+/*comment*/
 #include <stdio.h>
 #include <stdlib.h>
 
