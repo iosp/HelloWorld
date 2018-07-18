@@ -13,6 +13,7 @@ change2 is here ================================================================
 
 int main(void) {
 	puts("Hello World!!!"); /* prints !!!Hello World!!! */
-	puts("Hello Raz!!!");	
+	puts("Hello Raz!!!");
+	puts("Hello Dan!!!");
 	return EXIT_SUCCESS;
 }
